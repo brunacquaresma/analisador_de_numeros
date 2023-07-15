@@ -9,7 +9,7 @@ Basta abrir o arquivo index.html em um navegador web compatível para utilizar o
 Adicionar números
 Na seção principal da página, você encontrará um campo de entrada de números e um botão "Adicionar". Digite um número válido entre 1 e 100 nesse campo e clique no botão "Adicionar" para inserir o número na lista de análise.  
 
-## Finalizar análise  
+### Finalizar análise  
 Ao adicionar todos os números desejados, clique no botão "Finalizar". O sistema realizará as seguintes análises estatísticas:  
 
 Número total de elementos adicionados: Será exibida a quantidade total de números adicionados.  
@@ -17,7 +17,8 @@ Maior valor: Será mostrado o maior número presente na lista.
 Menor valor: Será exibido o menor número presente na lista.  
 Soma total: Será calculada e apresentada a soma de todos os números adicionados.  
 Média: Será calculada e exibida a média dos números adicionados.  
-Estilo
+
+## Estilo
 A interface gráfica do Analisador de Números é estilizada com CSS para proporcionar uma experiência agradável ao usuário. As cores, fontes e espaçamentos foram escolhidos para criar um layout simples e intuitivo.  
 
 ## Requisitos do sistema  
